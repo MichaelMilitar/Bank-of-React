@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  width:980px;
+  margin:auto; 
+  height:auto; 
+  overflow:auto;
+  background-color: lightblue;
+}
+.Link {
+  color:black;
+}
